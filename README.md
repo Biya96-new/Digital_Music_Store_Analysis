@@ -1,4 +1,5 @@
 In this project SQL was used to examine the dataset and to help the store to aunderstand its business growth by answering some questions.Such as:
+
 1.Who is the senior most employee based on job title?
 2.Which countries have the most Invoices?
 3.What are top 3 values of total invoice?
