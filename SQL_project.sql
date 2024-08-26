@@ -123,8 +123,5 @@ WITH popular_genre AS
 SELECT * FROM popular_genre WHERE RowNo <= 1
 
 
-Q3. Write a query that determines the cutomer that has spent most on music for each
-country.Write a query that returns the country along with top customers and how much
-they spent.For countries where top amount spent is shared,provide all customers who 
-spent this amount.
+
 	
