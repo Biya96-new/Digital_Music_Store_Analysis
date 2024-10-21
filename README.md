@@ -2,7 +2,7 @@ This project demonstrates how SQL was used to examine the dataset of a Music Sto
 
 **The analysis primarily involved the following tables:**
 
-Employees: Contains data about employees, including job titles and hire dates.
+Employees: Contains data about employees, including job titles and hire dates.\n
 Invoices: Contains data about sales invoices, including the total amount, customer ID, and billing information.
 Customers: Contains customer details such as first name, last name, email, country, and customer ID.
 Tracks: Contains details of each music track, including track names, genre, artist, and track length.
